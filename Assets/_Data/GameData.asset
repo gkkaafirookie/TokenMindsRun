@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbc81884492aef4b864b9d01f307f06, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  isGamePlaying: 0
+  isDebug: 0
+  hasLight: 0
+  levelCurves:
+    DataList:
+      List:
+      - key: 1
+        value: {fileID: 11400000, guid: 8724c02aa448e7848976cc5e1703f559, type: 2}
+      - key: 2
+        value: {fileID: 11400000, guid: 7a5cfc455035f584db2001c0a2fabfbc, type: 2}
+      - key: 3
+        value: {fileID: 11400000, guid: 825af5265f3e808458ec8fe822dce4e4, type: 2}
+      - key: 4
+        value: {fileID: 11400000, guid: f1cad7023c60e5843a89754c27c46ff3, type: 2}
+      - key: 5
+        value: {fileID: 11400000, guid: 6a8a334b9be866b49aae24b3fafcec8a, type: 2}
+    currentKey: 11
+    currentData: {fileID: 0}
+  isRestart: 0
